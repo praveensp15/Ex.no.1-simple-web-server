@@ -1,6 +1,7 @@
 
 ## Ex 01 -Simple Web Server using Spring Boot
-
+## NAME:Praveen S
+## REG NO:2305001027
 ## AIM:
 To develop a Simple Web Server using Spring Boot that can handle basic HTTP requests and return appropriate responses through RESTful endpoints.
 ## ALGORITHM:
@@ -130,6 +131,11 @@ public class HelloController {
 
 
 
-Output:
+## Output:
+<img width="1043" height="716" alt="Screenshot 2026-06-04 180205" src="https://github.com/user-attachments/assets/af7d327d-a995-4f41-92a7-d8f44e19ff2a" />
+
+## Result:
+Thus,the Simple Web Server using Spring Boot that can handle basic HTTP requests and return appropriate responses through RESTful endpoints implemented and executed successfully.
+
 
 
